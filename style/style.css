@@ -88,6 +88,7 @@ button, button:action, button:focus {
 	font-size: 14px;
 	color: rgb(81, 88, 98);
 	padding: 35px 14px 22px 14px;
+	text-align: center;
 }
 .menu__item:hover .menu__link:hover {
 	background-image: url(../images/hover.png);
