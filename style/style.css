@@ -98,6 +98,7 @@ button, button:action, button:focus {
 	color: rgb(197, 244, 255);
 	font-size: 15px;
 	font-weight: 800;
+	box-sizing: border-box;
 	padding: 42px 10px 32px 10px;
 }
 .btn-blog {
