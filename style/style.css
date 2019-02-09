@@ -75,7 +75,7 @@ button, button:action, button:focus {
 .menu__item {
 	display: block;
 	margin-left: 31px;
-	width: 100%;
+	width: 75%;
 }
 .menu__item:last-child {
 	margin-right: -19px;
@@ -98,7 +98,7 @@ button, button:action, button:focus {
 	color: rgb(197, 244, 255);
 	font-size: 15px;
 	font-weight: 800;
-	padding: 42px 10px 32px 10px;
+	padding: 42px 0px 32px 0px;
 }
 .btn-blog {
 	background-color: rgb(249, 133, 97);
