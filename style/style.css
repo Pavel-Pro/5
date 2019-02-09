@@ -1167,7 +1167,7 @@ button, button:action, button:focus {
 		text-align: center;
 	}
 	.footer__item:first-child {
-		margin-left: 5px;
+		margin-left: 0px;
 	}	
 	.twitter {
 		flex: 0px;
