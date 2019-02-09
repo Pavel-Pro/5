@@ -1162,7 +1162,7 @@ button, button:action, button:focus {
 	.footer__item {
 		width: 100%;
 		margin-top: 20px;
-		margin-right: -3px;
+		margin-right: -5px;
 		padding: 0 40px;
 		text-align: center;
 	}
