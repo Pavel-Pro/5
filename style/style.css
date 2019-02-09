@@ -33,7 +33,6 @@
 	background-color: rgb(244, 244, 244);
 	font-family: Ubuntu;
 	width: 100%;
-	tap-highlight-color: transparent;
 	box-sizing: border-box;
 }
 button, button:action, button:focus {
@@ -683,7 +682,7 @@ button, button:action, button:focus {
 		font-size: 15px;
 		font-weight: 800;
 		padding: 0px 0px 0px 0px;
-		user-select: none;
+		tap-highlight-color: transparent;
 	}
 	.wrapper {
 		width: 100%;
