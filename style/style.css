@@ -683,6 +683,8 @@ button, button:action, button:focus {
 		font-size: 15px;
 		font-weight: 800;
 		padding: 0px 0px 0px 0px;
+		-webkit-user-select: none;
+		-webkit-touch-callout: none; 
 	}
 	.wrapper {
 		width: 100%;
