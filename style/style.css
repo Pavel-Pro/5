@@ -1162,7 +1162,7 @@ button, button:action, button:focus {
 	.footer__item {
 		width: 100%;
 		margin-top: 20px;
-		margin-right: -5px;
+		margin-right: 0px;
 		padding: 0 40px;
 		text-align: center;
 	}
@@ -1173,7 +1173,7 @@ button, button:action, button:focus {
 	}
 	.newsletter {
 		flex: 0px;
-		margin-right: 0px;
+		margin-right: -5px;
 		order: 2;
 	}
 	.recent {
