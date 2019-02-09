@@ -28,6 +28,9 @@
 	font-family: "Ubuntu Condensed";
 	src: url(../fonts/UbuntuCondensed-Regular.ttf);
 }
+* {
+	-webkit-tap-highlight-color: transparent;
+}
 
 .pages {
 	background-color: rgb(244, 244, 244);
@@ -682,7 +685,6 @@ button, button:action, button:focus {
 		font-size: 15px;
 		font-weight: 800;
 		padding: 0px 0px 0px 0px;
-		tap-highlight-color: transparent;
 	}
 	.wrapper {
 		width: 100%;
