@@ -1166,6 +1166,9 @@ button, button:action, button:focus {
 		padding: 0 40px;
 		text-align: center;
 	}
+	.footer__item:first-child {
+		margin-left: 5px;
+	}	
 	.twitter {
 		flex: 0px;
 		margin-right: 0px;
