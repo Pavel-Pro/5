@@ -34,6 +34,7 @@
 	font-family: Ubuntu;
 	width: 100%;
 	webkit-tap-highlight-color: transparent;
+	box-sizing: border-box;
 }
 button, button:action, button:focus {
   outline: none;
