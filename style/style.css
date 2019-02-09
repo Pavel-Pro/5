@@ -33,6 +33,7 @@
 	background-color: rgb(244, 244, 244);
 	font-family: Ubuntu;
 	width: 100%;
+	user-select: none;
 }
 button, button:action, button:focus {
   outline: none;
