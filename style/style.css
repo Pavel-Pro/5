@@ -75,7 +75,7 @@ button, button:action, button:focus {
 .menu__item {
 	display: block;
 	margin-left: 31px;
-	width: 75%;
+	width: 75px;
 }
 .menu__item:last-child {
 	margin-right: -19px;
