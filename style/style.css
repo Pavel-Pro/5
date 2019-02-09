@@ -33,7 +33,6 @@
 	background-color: rgb(244, 244, 244);
 	font-family: Ubuntu;
 	width: 100%;
-	user-select: none;
 	webkit-tap-highlight-color: transparent;
 }
 button, button:action, button:focus {
