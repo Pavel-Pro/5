@@ -87,7 +87,7 @@ button, button:action, button:focus {
 	font-family: Ubuntu, Arial, sans-serif;
 	font-size: 14px;
 	color: rgb(81, 88, 98);
-	padding: 35px 10px 22px 10px;
+	padding: 35px 14px 22px 14px;
 }
 .menu__item:hover .menu__link:hover {
 	background-image: url(../images/hover.png);
