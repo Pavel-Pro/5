@@ -30,13 +30,13 @@
 }
 * {
 	-webkit-tap-highlight-color: transparent;
+	box-sizing: border-box;
 }
 
 .pages {
 	background-color: rgb(244, 244, 244);
 	font-family: Ubuntu;
 	width: 100%;
-	box-sizing: border-box;
 }
 button, button:action, button:focus {
   outline: none;
