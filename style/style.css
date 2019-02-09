@@ -89,7 +89,7 @@ button, button:action, button:focus {
 	color: rgb(81, 88, 98);
 	padding: 35px 10px 22px 10px;
 }
-.menu__item:hover .menu__link:hover {
+.menu__item:hover .mnu__link:hover {
 	background-image: url(../images/hover.png);
 	background-position: bottom;
 	background-size: 100%;
